@@ -22,6 +22,7 @@ const App = () => {
     <div className="App">
       <Navbar />
       <Charts coinData={coinData} />
+      <h1> How are you</h1>
     </div>
   );
 };
